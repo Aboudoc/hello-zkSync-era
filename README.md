@@ -36,7 +36,7 @@ WebSocket URL: wss://testnet.era.zksync.dev/ws
 
 https://era.zksync.io/docs/dev/fundamentals/interacting.html#connecting-to-zksync-era-on-metamask
 
-### Deploy
+### Deploy
 
 ```sh
 npx hardhat deploy-zksync
