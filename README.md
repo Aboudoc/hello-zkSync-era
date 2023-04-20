@@ -12,7 +12,7 @@ npm i --save-dev typescript ts-node ethers zksync-web3 hardhat @matterlabs/hardh
 
 - goerli bridge: https://goerli.portal.zksync.io/bridge
 
-## Connecting to zkSync Era on Metamask
+## Connecting to zkSync Era on Metamask
 
 ### Mainnet network info
 
