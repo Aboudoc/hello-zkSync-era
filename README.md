@@ -16,7 +16,7 @@ npm i --save-dev typescript ts-node ethers zksync-web3 hardhat @matterlabs/hardh
 
 Add a new network to metamask
 
-### Mainnet network info
+### Mainnet network info
 
 Network Name: zkSync Era Mainnet
 RPC URL: https://mainnet.era.zksync.io
