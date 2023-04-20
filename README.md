@@ -14,6 +14,8 @@ npm i --save-dev typescript ts-node ethers zksync-web3 hardhat @matterlabs/hardh
 
 ## Connecting to zkSync Era on Metamask
 
+Add a new network to metamask
+
 ### Mainnet network info
 
 Network Name: zkSync Era Mainnet
